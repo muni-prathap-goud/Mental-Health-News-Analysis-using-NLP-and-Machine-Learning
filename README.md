@@ -96,10 +96,3 @@ Mental health issues like depression, anxiety, PTSD, and suicidal ideation are w
 
 This project offers a deep dive into mental health coverage in online media using interpretable NLP and ML methods. It demonstrates how language models, combined with statistical learning, can surface hidden patterns and help public health researchers, media analysts, and policy makers better understand how mental health is represented in the news.
 
-## References
-
-- Devlin et al. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
-- TextBlob Documentation: https://textblob.readthedocs.io/en/dev/
-- Scikit-learn: https://scikit-learn.org/
-- Sentence Transformers: https://www.sbert.net/
-- Keras: https://keras.io/
