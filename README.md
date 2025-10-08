@@ -87,10 +87,14 @@ Mental health issues like depression, anxiety, PTSD, and suicidal ideation are w
 
 ## Repository Contents
 
-- `DataMining_final_project.ipynb`: Jupyter notebook with full pipeline
-- `DataMining_Final_Report.pdf`: Detailed project report
-- `DataMining Final Presentation.pptx`: Summary slides
-- `gnews_mental_health.csv`: Preprocessed dataset used for modeling
+- `project.ipynb`: Jupyter notebook with full pipeline (compatible with local Jupyter and Google Colab)
+- `Report.pdf`: Detailed project report
+- `Presentation.pptx`: Summary slides
+- `Dataset.csv`: Preprocessed dataset used for modeling
+
+## Running the Notebook
+
+The notebook has been updated to work in both local Jupyter environments and Google Colab. The code no longer requires Google Colab-specific imports and will save CSV files directly to your working directory instead of triggering downloads.
 
 ## Conclusion
 
